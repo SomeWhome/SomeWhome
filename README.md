@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Oliver. I am currently a student at South Stafford college learning technical computing. This years main focus is web design.
 <!--
 **SomeWhome/SomeWhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

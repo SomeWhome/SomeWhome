@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Oliver. I am currently a student at South Stafford college learning technical computing. This years main focus is web design.
+My name is Oliver. I am currently a student at South Stafford college learning technical computing. This years main focus is web design. 
+
+I have worked on 2D and 3D VR game. I worked on a 2D platformer with educational mechanics. The main focus on the game was a math based boss fighting platformer. My 3D VR game was a prison based escape room. Another 2D platformer was a baking based game used to teach kids how to cook.
 <!--
 **SomeWhome/SomeWhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
